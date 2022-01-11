@@ -1,7 +1,8 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on some react front end working!
-- 🌱 I’m currently learning React.js, react native.
+### My service 👋
+- web development
+- software design
+- UI/UX
+- Here's my personal website(WIP)https://zx123497.github.io/
 ### projects
 - National Central University service learning
 https://service-learning.ncu.edu.tw/
