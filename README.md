@@ -1,7 +1,12 @@
+### Languages
+- javascript, and React.js. Vue.js
+- C, C++,java
+- python
+- php, Laravel
 ### My service 👋
 - web development
 - software design
-- UI/UX
+- UI/UX (Adobe XD)
 - Here's my personal website(WIP)https://zx123497.github.io/
 ### projects
 - National Central University service learning
