@@ -1,9 +1,9 @@
-### Languages
+### Programing Languages
 - javascript, and React.js. Vue.js
 - C, C++,java
 - python
 - php, Laravel
-### My service 👋
+### My Skills 👋
 - web development
 - software design
 - UI/UX (Adobe XD)
