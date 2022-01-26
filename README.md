@@ -1,3 +1,6 @@
+### Links
+- Leetcode: https://leetcode.com/leo000111444/
+- LinkedIn: https://www.linkedin.com/in/ming-hao-chen-aab5921ab/
 ### Programing Languages
 - javascript, and React.js. Vue.js
 - C, C++,java
