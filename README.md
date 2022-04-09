@@ -1,3 +1,5 @@
+![插圖27](https://user-images.githubusercontent.com/43847473/162562371-5d4abdec-494d-4f7a-83c1-290d4b1f1e7b.jpg)
+
 ### Links
 - Leetcode: https://leetcode.com/leo000111444/
 - LinkedIn: https://www.linkedin.com/in/ming-hao-chen-aab5921ab/
