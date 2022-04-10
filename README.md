@@ -5,6 +5,13 @@
 ### Links
 - Leetcode: https://leetcode.com/leo000111444/
 - LinkedIn: https://www.linkedin.com/in/ming-hao-chen-aab5921ab/
+- email: leo000111444@gmail.com
+
+### Hobbies
+- create some interesting and beautiful things
+- draw some cute animals
+- Play Baseball
+- Play Guitar!
 ### Programing Languages
 - javascript, and React.js. Vue.js
 - C, C++,java
