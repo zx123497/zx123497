@@ -25,5 +25,5 @@ http://140.115.82.250/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zx123497&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![tutor_girl](https://user-images.githubusercontent.com/43847473/162617217-b831605b-6687-4733-8066-27c61b8bd5e8.gif)
-<img align="left" width="400" src="https://user-images.githubusercontent.com/43847473/162617217-b831605b-6687-4733-8066-27c61b8bd5e8.gif"/>
+
+<img align="right" width="400" src="https://user-images.githubusercontent.com/43847473/162617217-b831605b-6687-4733-8066-27c61b8bd5e8.gif">
