@@ -1,5 +1,5 @@
 ![插圖27](https://user-images.githubusercontent.com/43847473/162562371-5d4abdec-494d-4f7a-83c1-290d4b1f1e7b.jpg)
-
+<img align="right" width="400" src="https://user-images.githubusercontent.com/43847473/162617217-b831605b-6687-4733-8066-27c61b8bd5e8.gif">
 ### Links
 - Leetcode: https://leetcode.com/leo000111444/
 - LinkedIn: https://www.linkedin.com/in/ming-hao-chen-aab5921ab/
@@ -26,4 +26,4 @@ http://140.115.82.250/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zx123497&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/43847473/162617217-b831605b-6687-4733-8066-27c61b8bd5e8.gif">
+
