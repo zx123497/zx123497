@@ -8,7 +8,7 @@
 - email: leo000111444@gmail.com
 
 ### Hobbies
-- create some interesting and beautiful things
+- create some interesting and beautiful stuff
 - draw some cute animals
 - Play Baseball
 - Play Guitar!
