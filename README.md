@@ -1,5 +1,5 @@
 ![插圖27](https://user-images.githubusercontent.com/43847473/162562371-5d4abdec-494d-4f7a-83c1-290d4b1f1e7b.jpg)
-<h1 align="center">こんにちは～ Leoです</h1>
+<h1 align="center">Hi There! I'm Leo!</h1>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/43847473/162617217-b831605b-6687-4733-8066-27c61b8bd5e8.gif">
 
 ### Links
@@ -8,8 +8,8 @@
 - email: leo000111444@gmail.com
 
 ### Hobbies
-- create some interesting and beautiful stuff
-- draw some cute animals
+- Create some interesting and cute stuffs
+- Draw some adorable animals
 - Play Baseball
 - Play Guitar!
 ### Programing Languages
@@ -19,7 +19,7 @@
 - php, Laravel
 ### My Skills 👋
 - web development
-- software design
+- software engineering and design
 - UI/UX (Adobe XD)
 - Here's my personal website(WIP)https://zx123497.github.io/
 ### projects
