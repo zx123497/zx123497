@@ -9,7 +9,7 @@
 
 ### Hobbies
 - Create some interesting and cute stuffs
-- Draw some adorable animals
+- Draw some adorable anime characters and animals
 - Play Baseball
 - Play Guitar!
 ### Programing Languages
